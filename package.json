@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-gao-protests",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "GAO Bid-Protest Decisions MCP — reads the gao_bid_protests table (ingested",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-515b97e038ee6d13bd8714724b1596ee911d9dec9accc7652f6a05cd87ebd2a0",
-    "sourceCommit": "76aa8f5d9b5dc2f665563030647c68e661478864"
+    "sourceHash": "v1-1fbfb1008e024d7c086603640148e07ed2b1b748e0b2728c5a58661f757cd670",
+    "sourceCommit": "91681e9a4a137fa0051d58e32f38c64b6334af5c"
   }
 }
