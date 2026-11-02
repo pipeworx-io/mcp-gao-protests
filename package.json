@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-gao-protests",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "GAO Bid-Protest Decisions MCP — reads the gao_bid_protests table (ingested daily by workers/data-pipeline, dataset 'gao-protests') via PostgREST.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "gao-protests",
     "gatewaySlug": "gao-protests",
-    "sourceHash": "v1-40a6609c9170bd5639c2447332a0cde8ecc989de66b17d2e9c70b081feac9a1a",
-    "sourceCommit": "bb047243cf27f32453103de186b8e6a8b6a1ce79"
+    "sourceHash": "v1-5210d17f976c5696fb1c1326ad510827d0e8c3deacaa82d6d69acc710e7b58f7",
+    "sourceCommit": "030233f6b150a38a44421f88a5fcbad123f0fea8"
   }
 }
